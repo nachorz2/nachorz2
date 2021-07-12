@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nachorz2
-- 👀 I’m interested in Finance, data analysis and program development
+- 👀 I’m interested in Finance, data science and web development. 
 - 🌱 I’m currently learning python, sql, java and r
-- 💞️ I’m looking to collaborate on any proyect 
 - 📫 How to reach me: nachoruiz21@gmail.com
 
 <!---
