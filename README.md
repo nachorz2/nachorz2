@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @nachorz2
-- 👀 I’m interested in Finance, data science and web development. 
+- 👋 Hi, I’m Nacho! 
+- 📊 I have an Actuarial Science degree
+- 👀 I’m interested in Finance, Datascience and Web Development. 
 - 🌱 I can work with Python, Sql, R, and JS
-- 📫 How to reach me: nachoruiz21@gmail.com
+- 📫 You can reach me here: nachoruiz21@gmail.com
 
 <!---
 nachorz2/nachorz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
