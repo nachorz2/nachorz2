@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nachorz2
 - 👀 I’m interested in Finance, data science and web development. 
-- 🌱 I currently know python, sql, r, and a bit of Java
+- 🌱 I can work with Python, Sql, R, and JS
 - 📫 How to reach me: nachoruiz21@gmail.com
 
 <!---
